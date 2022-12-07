@@ -14,6 +14,7 @@ function App() {
     </ThemeProvider>
      <div className='app'>
       <main className='content'>
+        <Topbar />
         Hi
       </main>
      </div>
