@@ -1,5 +1,5 @@
 # notebook.io
-A digital finance note-taking application.
+A digital finance note-taking application made easy
 
 
 
